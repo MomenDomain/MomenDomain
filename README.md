@@ -1,6 +1,6 @@
 ### _Hi there 👋, I'm Momen._
 
-I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here -
+我是茉门，欢迎大家，希望朋友们玩的开心 Enjoy~ -
 
 
 
