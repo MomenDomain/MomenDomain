@@ -3,20 +3,18 @@
 我是茉門，歡迎大家，希望朋友們玩的開心 Enjoy~
 
 
-
-
-Welcome, You are my ![Visitor Count](https://profile-counter.glitch.me/MomenDomain/count.svg)visitor, Thank You!🎉🎉
-
+![:MomenDomain](https://count.getloli.com/get/@:MomenDomain)
 
 
 
 
 
 
+![MomenDomain's GitHub stats](https://github-readme-stats.vercel.app/api?username=MomenDomain&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MomenDomain&layout=compact&theme=tokyonight)
 
 
 
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MomenDomain&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=MomenDomain&count_private=true&show_icons=true" height=145/></span>
+
 
 
 
