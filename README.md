@@ -1,9 +1,15 @@
 ### _Hi there 👋, I'm Momen._
+![hello](https://views.whatilearened.today/views/github/MomenDomain/deplives.svg)
 
 我是茉門，歡迎大家，希望朋友們玩的開心 Enjoy~
 
 
 歡迎我的![:MomenDomain](https://count.getloli.com/get/@:MomenDomain)訪客🎉🎉
+
+
+![MomenDomain's GitHub stats](https://github-readme-stats.vercel.app/api?username=MomenDomain&show_icons=true&theme=transparent)
+
+
 
 
 
